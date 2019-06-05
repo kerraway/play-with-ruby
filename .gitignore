@@ -1,0 +1,18 @@
+# bundler config
+/.bundle
+
+# log and temp files
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# env
+/env
+/.env*
+
+# Jetbrains
+/.idea
+
+# OSX
+.DS_Store
